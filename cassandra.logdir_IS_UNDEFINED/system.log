@@ -1,0 +1,52 @@
+INFO  [main] 2015-07-22 16:58:00,763 NettyUtil.java:83 - Did not find Netty's native epoll transport in the classpath, defaulting to NIO.
+INFO  [main] 2015-07-22 16:58:01,306 DCAwareRoundRobinPolicy.java:193 - Using data-center name 'datacenter1' for DCAwareRoundRobinPolicy (if this is incorrect, please provide the correct datacenter name with DCAwareRoundRobinPolicy constructor)
+INFO  [main] 2015-07-22 16:58:01,309 Cluster.java:1311 - New Cassandra host /127.0.0.1:9042 added
+INFO  [main] 2015-07-22 16:58:01,309 Cluster.java:1311 - New Cassandra host /127.0.0.2:9042 added
+INFO  [main] 2015-07-22 16:58:01,310 Cluster.java:1311 - New Cassandra host /127.0.0.3:9042 added
+INFO  [main] 2015-07-22 16:59:21,090 NettyUtil.java:83 - Did not find Netty's native epoll transport in the classpath, defaulting to NIO.
+WARN  [main] 2015-07-22 16:59:24,193 Slf4JLogger.java:136 - Failed to generate a seed from SecureRandom within 3 seconds. Not enough entrophy?
+INFO  [main] 2015-07-22 16:59:24,594 DCAwareRoundRobinPolicy.java:193 - Using data-center name 'datacenter1' for DCAwareRoundRobinPolicy (if this is incorrect, please provide the correct datacenter name with DCAwareRoundRobinPolicy constructor)
+INFO  [main] 2015-07-22 16:59:24,594 Cluster.java:1311 - New Cassandra host /127.0.0.1:9042 added
+INFO  [main] 2015-07-22 16:59:24,597 Cluster.java:1311 - New Cassandra host /127.0.0.2:9042 added
+INFO  [main] 2015-07-22 16:59:24,597 Cluster.java:1311 - New Cassandra host /127.0.0.3:9042 added
+INFO  [main] 2015-07-22 17:19:58,353 NettyUtil.java:83 - Did not find Netty's native epoll transport in the classpath, defaulting to NIO.
+INFO  [main] 2015-07-22 17:19:59,052 DCAwareRoundRobinPolicy.java:193 - Using data-center name 'datacenter1' for DCAwareRoundRobinPolicy (if this is incorrect, please provide the correct datacenter name with DCAwareRoundRobinPolicy constructor)
+INFO  [main] 2015-07-22 17:19:59,057 Cluster.java:1311 - New Cassandra host /127.0.0.1:9042 added
+INFO  [main] 2015-07-22 17:19:59,073 Cluster.java:1311 - New Cassandra host /127.0.0.2:9042 added
+INFO  [main] 2015-07-22 17:19:59,074 Cluster.java:1311 - New Cassandra host /127.0.0.3:9042 added
+ERROR [cluster1-reconnection-0] 2015-07-22 18:20:46,049 ControlConnection.java:144 - [Control connection] Cannot connect to any host, scheduling retry in 1000 milliseconds
+INFO  [main] 2015-07-22 18:38:16,346 NettyUtil.java:83 - Did not find Netty's native epoll transport in the classpath, defaulting to NIO.
+INFO  [main] 2015-07-22 18:38:17,054 DCAwareRoundRobinPolicy.java:193 - Using data-center name 'datacenter1' for DCAwareRoundRobinPolicy (if this is incorrect, please provide the correct datacenter name with DCAwareRoundRobinPolicy constructor)
+INFO  [main] 2015-07-22 18:38:17,057 Cluster.java:1311 - New Cassandra host /127.0.0.1:9042 added
+INFO  [main] 2015-07-22 18:38:17,057 Cluster.java:1311 - New Cassandra host /127.0.0.2:9042 added
+INFO  [main] 2015-07-22 18:38:17,058 Cluster.java:1311 - New Cassandra host /127.0.0.3:9042 added
+INFO  [main] 2015-07-22 18:43:57,793 NettyUtil.java:83 - Did not find Netty's native epoll transport in the classpath, defaulting to NIO.
+INFO  [main] 2015-07-22 18:43:58,424 DCAwareRoundRobinPolicy.java:193 - Using data-center name 'datacenter1' for DCAwareRoundRobinPolicy (if this is incorrect, please provide the correct datacenter name with DCAwareRoundRobinPolicy constructor)
+INFO  [main] 2015-07-22 18:43:58,427 Cluster.java:1311 - New Cassandra host /127.0.0.1:9042 added
+INFO  [main] 2015-07-22 18:43:58,459 Cluster.java:1311 - New Cassandra host /127.0.0.2:9042 added
+INFO  [main] 2015-07-22 18:43:58,465 Cluster.java:1311 - New Cassandra host /127.0.0.3:9042 added
+INFO  [main] 2015-07-22 18:49:32,716 NettyUtil.java:83 - Did not find Netty's native epoll transport in the classpath, defaulting to NIO.
+INFO  [main] 2015-07-22 18:49:33,513 DCAwareRoundRobinPolicy.java:193 - Using data-center name 'datacenter1' for DCAwareRoundRobinPolicy (if this is incorrect, please provide the correct datacenter name with DCAwareRoundRobinPolicy constructor)
+INFO  [main] 2015-07-22 18:49:33,526 Cluster.java:1311 - New Cassandra host /127.0.0.1:9042 added
+INFO  [main] 2015-07-22 18:49:33,542 Cluster.java:1311 - New Cassandra host /127.0.0.2:9042 added
+INFO  [main] 2015-07-22 18:49:33,543 Cluster.java:1311 - New Cassandra host /127.0.0.3:9042 added
+INFO  [main] 2015-07-22 19:08:36,259 NettyUtil.java:83 - Did not find Netty's native epoll transport in the classpath, defaulting to NIO.
+INFO  [main] 2015-07-22 19:08:36,861 DCAwareRoundRobinPolicy.java:193 - Using data-center name 'datacenter1' for DCAwareRoundRobinPolicy (if this is incorrect, please provide the correct datacenter name with DCAwareRoundRobinPolicy constructor)
+INFO  [main] 2015-07-22 19:08:36,864 Cluster.java:1311 - New Cassandra host /127.0.0.1:9042 added
+INFO  [main] 2015-07-22 19:08:36,864 Cluster.java:1311 - New Cassandra host /127.0.0.2:9042 added
+INFO  [main] 2015-07-22 19:08:36,864 Cluster.java:1311 - New Cassandra host /127.0.0.3:9042 added
+INFO  [main] 2015-07-22 19:42:31,005 NettyUtil.java:83 - Did not find Netty's native epoll transport in the classpath, defaulting to NIO.
+INFO  [main] 2015-07-22 19:42:31,633 DCAwareRoundRobinPolicy.java:193 - Using data-center name 'datacenter1' for DCAwareRoundRobinPolicy (if this is incorrect, please provide the correct datacenter name with DCAwareRoundRobinPolicy constructor)
+INFO  [main] 2015-07-22 19:42:31,637 Cluster.java:1311 - New Cassandra host /127.0.0.1:9042 added
+INFO  [main] 2015-07-22 19:42:31,637 Cluster.java:1311 - New Cassandra host /127.0.0.2:9042 added
+INFO  [main] 2015-07-22 19:42:31,638 Cluster.java:1311 - New Cassandra host /127.0.0.3:9042 added
+INFO  [main] 2015-07-22 19:48:57,229 NettyUtil.java:83 - Did not find Netty's native epoll transport in the classpath, defaulting to NIO.
+INFO  [main] 2015-07-22 19:48:57,796 DCAwareRoundRobinPolicy.java:193 - Using data-center name 'datacenter1' for DCAwareRoundRobinPolicy (if this is incorrect, please provide the correct datacenter name with DCAwareRoundRobinPolicy constructor)
+INFO  [main] 2015-07-22 19:48:57,799 Cluster.java:1311 - New Cassandra host /127.0.0.1:9042 added
+INFO  [main] 2015-07-22 19:48:57,800 Cluster.java:1311 - New Cassandra host /127.0.0.2:9042 added
+INFO  [main] 2015-07-22 19:48:57,800 Cluster.java:1311 - New Cassandra host /127.0.0.3:9042 added
+INFO  [main] 2015-07-22 20:10:49,593 NettyUtil.java:83 - Did not find Netty's native epoll transport in the classpath, defaulting to NIO.
+INFO  [main] 2015-07-22 20:10:50,201 DCAwareRoundRobinPolicy.java:193 - Using data-center name 'datacenter1' for DCAwareRoundRobinPolicy (if this is incorrect, please provide the correct datacenter name with DCAwareRoundRobinPolicy constructor)
+INFO  [main] 2015-07-22 20:10:50,203 Cluster.java:1311 - New Cassandra host /127.0.0.1:9042 added
+INFO  [main] 2015-07-22 20:10:50,204 Cluster.java:1311 - New Cassandra host /127.0.0.2:9042 added
+INFO  [main] 2015-07-22 20:10:50,204 Cluster.java:1311 - New Cassandra host /127.0.0.3:9042 added
