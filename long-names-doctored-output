@@ -1,0 +1,18 @@
+{'--id': None,
+ '-f': False,
+ '-o': None}
+ccm command: /home/mambocab/miniconda/envs/cstar_te/bin/ccm node1 nodetool cfstats keyspace1.standard1
+c* version: ReleaseVersion: 3.0.0-SNAPSHOT
+Space used (live): 1815565264
+Space used (total): 1972391432
+Space used by snapshots (total): 0
+Bloom filter space used: 343680
+{'--id': None,
+ '-f': False,
+ '-o': None}
+ccm command: /home/mambocab/miniconda/envs/cstar_te/bin/ccm node1 nodetool cfstats keyspace1.standard1
+c* version: ReleaseVersion: 2.2.0-SNAPSHOT
+Space used (live): 5847258528
+Space used (total): 5847258528
+Space used by snapshots (total): 0
+Bloom filter space used: 325328

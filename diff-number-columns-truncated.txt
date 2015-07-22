@@ -1,0 +1,41 @@
+ccm command: /usr/local/bin/ccm node1 nodetool cfstats keyspace1.standard1
+c* version: ReleaseVersion: 3.0.0-SNAPSHOT
+Space used (live): 854934318
+Space used (total): 854934318
+Space used by snapshots (total): 0
+Bloom filter space used: 263584
+
+ccm command: /usr/local/bin/ccm node1 nodetool cfstats keyspace1.standard1
+c* version: ReleaseVersion: 3.0.0-SNAPSHOT
+Space used (live): 4413680628
+Space used (total): 4413680628
+Space used by snapshots (total): 0
+Bloom filter space used: 434840
+
+ccm command: /usr/local/bin/ccm node1 nodetool cfstats keyspace1.standard1
+c* version: ReleaseVersion: 3.0.0-SNAPSHOT
+Space used (live): 7412553137
+Space used (total): 7412553137
+Space used by snapshots (total): 0
+Bloom filter space used: 297040
+
+ccm command: /usr/local/bin/ccm node1 nodetool cfstats keyspace1.standard1
+c* version: ReleaseVersion: 2.2.0-SNAPSHOT
+Space used (live): 1085887790
+Space used (total): 1085887790
+Space used by snapshots (total): 0
+Bloom filter space used: 259600
+
+ccm command: /usr/local/bin/ccm node1 nodetool cfstats keyspace1.standard1
+c* version: ReleaseVersion: 2.2.0-SNAPSHOT
+Space used (live): 5473380871
+Space used (total): 5473380871
+Space used by snapshots (total): 0
+Bloom filter space used: 374408
+
+ccm command: /usr/local/bin/ccm node1 nodetool cfstats keyspace1.standard1
+c* version: ReleaseVersion: 2.2.0-SNAPSHOT
+Space used (live): 10773278650
+Space used (total): 11383012276
+Space used by snapshots (total): 0
+Bloom filter space used: 314792
